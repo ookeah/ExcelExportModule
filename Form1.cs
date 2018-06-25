@@ -15,6 +15,14 @@ namespace ExcelExportModule
         public Form1()
         {
             InitializeComponent();
+
+            txtTargetPath.Text = "";
+            txtToExpDirPath.Text = "";
+            rtxtLog.Text = "";
+            
+
+
+    
         }
     }
 }

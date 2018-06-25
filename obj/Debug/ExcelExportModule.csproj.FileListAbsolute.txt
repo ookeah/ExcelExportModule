@@ -8,3 +8,13 @@ D:\0.localgit\ookeah\ExcelExportModule\ExcelExportModule\ExcelExportModule\obj\D
 D:\0.localgit\ookeah\ExcelExportModule\ExcelExportModule\ExcelExportModule\obj\Debug\ExcelExportModule.csproj.CoreCompileInputs.cache
 D:\0.localgit\ookeah\ExcelExportModule\ExcelExportModule\ExcelExportModule\obj\Debug\ExcelExportModule.exe
 D:\0.localgit\ookeah\ExcelExportModule\ExcelExportModule\ExcelExportModule\obj\Debug\ExcelExportModule.pdb
+D:\0.localgit\ookeah\ExcelExportModule\bin\Debug\ExcelExportModule.exe.config
+D:\0.localgit\ookeah\ExcelExportModule\bin\Debug\ExcelExportModule.exe
+D:\0.localgit\ookeah\ExcelExportModule\bin\Debug\ExcelExportModule.pdb
+D:\0.localgit\ookeah\ExcelExportModule\obj\Debug\ExcelExportModule.csprojAssemblyReference.cache
+D:\0.localgit\ookeah\ExcelExportModule\obj\Debug\ExcelExportModule.Form1.resources
+D:\0.localgit\ookeah\ExcelExportModule\obj\Debug\ExcelExportModule.Properties.Resources.resources
+D:\0.localgit\ookeah\ExcelExportModule\obj\Debug\ExcelExportModule.csproj.GenerateResource.cache
+D:\0.localgit\ookeah\ExcelExportModule\obj\Debug\ExcelExportModule.csproj.CoreCompileInputs.cache
+D:\0.localgit\ookeah\ExcelExportModule\obj\Debug\ExcelExportModule.exe
+D:\0.localgit\ookeah\ExcelExportModule\obj\Debug\ExcelExportModule.pdb

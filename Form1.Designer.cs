@@ -132,6 +132,7 @@
             this.Controls.Add(this.txtTargetPath);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ExcelExportModule";
             this.ResumeLayout(false);
             this.PerformLayout();
