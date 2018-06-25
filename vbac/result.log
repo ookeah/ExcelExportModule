@@ -1,0 +1,13 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+begin decombine
+
+> Target: macro.xlsm
+- Export: ThisWorkbook.dcm
+- Export: UserForm1.frm
+- Export: UserForm1.frx
+- Export: Module1.bas
+- Export: Class1.cls
+
+end
